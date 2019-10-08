@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01.1.3  抽象数据类型/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.2.3  算法设计【例1.3】最大公约数/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01.2.3  算法设计【例1.4】随机数集合/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.2.2  顺序表/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.2.2  顺序表【例2.1】Josephus环/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.2.2  顺序表【例2.2】浅拷贝与深拷贝/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.2.3  排序顺序表【例2.3】插入/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.2.3  排序顺序表【例2.4】对象信息分类统计与查找/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.2.3  排序顺序表【例2.5】集合并运算/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.3.2  3. 单链表/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.3.2  3. 单链表【例2.6】逆转/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.3.2  6. 排序单链表/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.3.3  3. 循环双链表/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.3.3  4. 排序循环双链表/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02.4  多项式的表示及运算【例2.7】相加/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.2.2  常量字符串类【例3.1】插入删除/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.2.2  常量字符串类【例3.2】整数类/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.2.3  变量字符串类【例3.3】插入、删除/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03.3  串的模式匹配【例3.4】替换和删除StringBuffer子串/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04.1  栈【例4.1~4.2】表达式/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04.2  队列【例4.3】素数环/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04.2.5  优先队列【例4.4】进程调度/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04.3  递归 2. 递归算法【例4.5~4.6】/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04.3  递归 3. 单链表/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.1  数组【例5.1】矩阵类/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.2.2  稀疏矩阵的压缩存储 4. 行的单链表【例5.2】/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05.3.3  广义表双链表示的实现【例5.3】/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06.2.6  二叉树 【例6.1~2】二叉链表/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06.2.6  二叉树【例6.3】表达式二叉树/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06.3.2  中序线索二叉树/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06.4.2  Huffman树【例6.5】/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06.5.3  树的父母孩子兄弟链表实现【例6.6】城市树/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07  图 【例7.1】G3~G5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08.2  二分法查找/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08.3  分块查找【例8.1】关键字/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08.4.1  散列表【例8.2】互异集合/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08.4.2  散列映射【例8.3】字符计数/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08.5.1  二叉排序树【例8.4】互异排序集合/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08.5.2  树映射【例8.5】字符计数/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09.1~9.4  排序【例9.1】/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09.5 线性表的排序算法【例题，测试】/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.1.2  Arrays数组类【测试】/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.1.3  集合【例10.1】素数环/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.1.4  映射【思考题10-2】单词计数/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.2.2  基于迭代器的操作/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.3.2  动态规划法【例10.3】组合数/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.3.3  贪心法【例10.4】Kruskal算法/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.3.3 贪心法 5.最小堆【思考题10-6】堆排序/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.3.4  回溯法【例10.5】幂集、组合与排列/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.3.4  回溯法【例10.6】八皇后/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.3.4  回溯法【例10.7】骑士游历/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
